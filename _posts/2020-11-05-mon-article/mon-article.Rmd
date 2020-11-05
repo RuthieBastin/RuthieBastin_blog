@@ -1,0 +1,60 @@
+---
+title: "Le lion d'Afrique"
+description: |
+  A short description of the post.
+author:
+  - name: Student Unknown
+    url: {}
+  - name: Nicolas Devilez
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 11-05-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+# Lion #
+
+
+# Classification *
+The African lion is a ** quadrupedal ** mammal belonging to the * Felidae * family. Its scientific name's * Panthero Leo *. It's conservation status indicates as being a vulnerable species.
+
+
+* Reign: Animalia
+* Branch: Chordata
+* Class: Mammals
+* Order: Canivores
+* Family: Felidae
+* Genus and species: * Panthera Leo *
+
+
+
+# Way of life*
+The lion usually lives in family groups. Young lion cubs stay with their mothers until puberty.
+
+Females | Males
+----------------- | -------------
+Family groups | solitary
+
+ 
+
+# Food*
+It's ** strict carnivorous **, that is to say that it feeds mainly on prey hunted in its natural environment. It mainly feeds on wildebeest, zebras, gazelles. He will practice two hunting techniques: on the lookout and on the approach.
+
+
+# Reproduction *
+When breeding, felines generally adopt the position of ** lordosis ** in order to mate. Gestation usually lasts 110 days. The litter is usually 3-4 cubs. The young are ** nesting ** because they are born blind and deaf, unarmed.
+
+<https://www.nrcresearchpress.com/>
+
+! [Google image the African lion] (https://static.teteamodeler.com/media/cache/thumb_400/lion-explication-tete-a-modeler-du-mot-lion.jpeg)
